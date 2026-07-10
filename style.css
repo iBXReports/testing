@@ -1,4 +1,3 @@
-  <style>
     /* Ajustes para pantallas pequeñas */
 @media (max-width: 768px) {
   .form-container {
@@ -366,4 +365,3 @@
 #admin-sec-base { display: block; }
 #adminPassword { text-transform: lowercase !important; }
 .btn-ghost { background: #e2e8f0; color: #4a5568; padding: 10px; border-radius: 4px; text-decoration: none; }
-  </style>
