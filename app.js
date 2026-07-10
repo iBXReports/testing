@@ -1,4 +1,4 @@
-  <script>
+
     // =========================================================================
     // 🔴 IMPORTANTE: PEGA AQUÍ LA URL DE TU WEB APP DE GOOGLE 🔴
     // =========================================================================
@@ -576,4 +576,4 @@ if (passInput) {
         e.target.value = e.target.value.toLowerCase();
     });
 }
-  </script>
+
